@@ -5,10 +5,10 @@
 
 <h4>
   <p>
-    • <a href="https://gradienceteam.github.io">Website</a> •
-    <!-- <a href="https://flathub.org/apps/com.github.GradienceTeam.Gradience">Install</a> •
-    <a href="https://matrix.to/#/#Gradience:matrix.org">Matrix</a> •
-    <a href="https://discord.com/invite/4njFDtfGEZ">Discord</a> -->
+    • <a href="https://axiomnsut.zc.al/">Website</a> •
+    <!-- <a href="">Install</a> •
+    <a href="">Matrix</a> •
+    <a href="">Whatsapp</a> -->
   </p>
   </h4>
 
