@@ -5,7 +5,7 @@
 
 <h4>
   <p>
-    • <a href="https://axiomnsut.zc.al/">Website</a> •
+    • <a href="https://axiomnsut.github.io/">Website</a> •
     <!-- <a href="">Install</a> •
     <a href="">Matrix</a> •
     <a href="">Whatsapp</a> -->
